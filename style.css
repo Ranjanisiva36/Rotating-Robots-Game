@@ -1,0 +1,15 @@
+body{
+    background: url("bg1.png");
+}
+#canvas1{
+    border:1px solid black;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.hidden {
+    display:none;
+}
